@@ -30,12 +30,6 @@ Our Ceramic Billing System is powered by Java, a versatile programming language 
 - **Effortless Amount Management:** Easily manage payments and outstanding balances.
 - **Informed Decisions:** Make data-driven choices with insightful reports and analytics.
 
-## Demo
-
-Check out a quick demonstration of the Ceramic Billing System in action!
-
-![Ceramic Billing System Demo]((https://github.com/thekrishpatel/Ceramic_billing_stystem/blob/main/Ceramic%20billing%20system.pptx))
-
 Ready to embrace a revolution in billing, stock management, and financial control? The Ceramic Billing System is here to lead the way. Get in touch today to discover more and start optimizing your business operations!
 
 For inquiries, contact us at Krishpatel8071@gmail.com
@@ -43,6 +37,10 @@ For inquiries, contact us at Krishpatel8071@gmail.com
 Connect with us on social media: [LinkedIn](https://www.linkedin.com/in/thekrishpatel/) | [Twitter](https://twitter.com/thekrishpatel1) | [Github](https://github.com/thekrishpatel)
 
 **Tags:** #Java #BillingSystem #StockManagement #Efficiency #BusinessAutomation
+
+## Presentation
+
+Check out the [Ceramic Billing System Presentation](https://github.com/thekrishpatel/Ceramic_billing_stystem/blob/main/Ceramic%20billing%20system.pptx) to get an in-depth overview of the project!
 
 ## License
 
