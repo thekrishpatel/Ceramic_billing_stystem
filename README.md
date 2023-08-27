@@ -1,6 +1,6 @@
 # Ceramic Billing System Project in Java
 
-![Ceramic Billing System]((https://socialify.git.ci/thekrishpatel/Ceramic_billing_stystem/image?font=Bitter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark))
+![Ceramic Billing System](https://socialify.git.ci/thekrishpatel/Ceramic_billing_stystem/image?font=Bitter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
 
 Hey there, fellow tech enthusiasts! 👋 Are you tired of the hassle that comes with dealing with paper bills, manual stock management, and the complexities of crunching numbers for your business? Well, the solution is here! Introducing the Ceramic Billing System – a Java-based project that's designed to make your life easier.
 
