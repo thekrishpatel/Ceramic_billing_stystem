@@ -32,7 +32,7 @@ Our Ceramic Billing System is powered by Java, a versatile programming language 
 
 Ready to embrace a revolution in billing, stock management, and financial control? The Ceramic Billing System is here to lead the way. Get in touch today to discover more and start optimizing your business operations!
 
-For inquiries, contact us at contact@ceramicbillingsystem.com
+For inquiries, contact us at Krishpatel8071@gmail.com
 
 Connect with us on social media: [LinkedIn](https://www.linkedin.com/in/thekrishpatel/) | [Twitter](https://twitter.com/thekrishpatel1) | [Github](https://github.com/thekrishpatel)
 
