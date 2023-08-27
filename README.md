@@ -38,4 +38,6 @@ Connect with us on social media: [LinkedIn](https://www.linkedin.com/in/thekrish
 
 **Tags:** #Java #BillingSystem #StockManagement #Efficiency #BusinessAutomation
 
-![Ceramic Billing System](https://socialify.git.ci/thekrishpatel/Ceramic_billing_stystem/image?font=Bitter&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+## License
+
+This project is licensed under the [MIT License](LICENSE).
